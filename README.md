@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Rachael Head's Website 
 
 You can use the [editor on GitHub](https://github.com/RachaelHead/gh-pages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
