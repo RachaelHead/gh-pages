@@ -10,6 +10,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+# INLS 161
+- Introduction to Information Science 
+- HTML, CSS, and more!
+
+```markdown
+Syntax highlighted code block
 
 # Header 1
 ## Header 2
